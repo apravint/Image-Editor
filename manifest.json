@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Gemini Editor",
+  "name": "Gemini Image Editor",
+  "description": "A modern web application that allows users to edit images using text prompts powered by the Gemini 2.5 Flash Image model. Upload an image, describe your edit, and let AI generate the result.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0891b2",
+  "background_color": "#0f172a"
+}
